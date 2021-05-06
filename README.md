@@ -1,6 +1,18 @@
 
 ## CapStone Project
 
+### Collaborators
+
+| Name    | Task                |
+| :----:  | :----:              |
+| Issac   | JS / JSX            |
+| Hyden   | SCSS                |
+| Fernando| BootStrap / Read.Md |
+
+
+### ToDo List
+
+> - 
 
 
 
