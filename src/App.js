@@ -1,4 +1,12 @@
 
+function App() {
+  return (
+    
+  );
+}
+
+
+
 const daily = [
   {
     "dt": 1619982000,
@@ -314,10 +322,6 @@ const daily = [
   }
 ]
 
-function App() {
-  return (
-    
-  );
-}
+
 
 export default App;
