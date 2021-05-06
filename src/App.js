@@ -1,8 +1,10 @@
+import General  from "./components/General";
+
 
 function App() {
-  return (
+  return 
     
-  );
+  
 }
 
 
@@ -322,6 +324,13 @@ const daily = [
   }
 ]
 
+function App() {
+  return (
+    <div className="container">
+      <General />
+    </div>
 
+  );
+}
 
 export default App;
