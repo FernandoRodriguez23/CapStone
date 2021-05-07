@@ -17,8 +17,8 @@ const General = ({info}) => {
             {info.dt === 1620586800 && <h2>Next Monday</h2>}
 
             <IoIosSunny style={{ color: "orange", fontSize: "2rem" }} />
-            <p> Min- { info.temp.min }°</p>
-            <p> Max- { info.temp.max }°</p>
+            <p className="min"> Min- { info.temp.min }°</p>
+            <p className="max"> Max- { info.temp.max }°</p>
         </div>  
     );
 }

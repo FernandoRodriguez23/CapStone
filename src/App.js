@@ -6,7 +6,7 @@ import Day from "./components/Day"
 
 function App() {
   return (
-    <div className="container">
+    <div className="container fluid">
       {data.daily.map((day)=>(
         <General info={day} />
       ))}
@@ -14,6 +14,7 @@ function App() {
         <Day tops={day} id={index}/>
       ))} */}
     </div>
+  
 
   );
 }
