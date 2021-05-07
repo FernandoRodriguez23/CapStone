@@ -13,6 +13,7 @@ function App() {
       {/* {data.daily.map((day, index)=>(
         <Day tops={day} id={index}/>
       ))} */}
+      
     </div>
   
 
