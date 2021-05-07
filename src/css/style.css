@@ -1,1 +1,16 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+html {
+  background-color: aqua;
+  font-family: Serif;
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+}
+
+daily {
+  font-family: Monospace;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+}
