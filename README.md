@@ -16,6 +16,8 @@ _______________________________________________________________
 > General
 > 
 > - ~~Find Icons~~
+>
+> - Find BootStrap React and learn it to use before going further
 
 #### Desktop
 

@@ -1,5 +1,6 @@
 html {
-  background-color: aqua;
+  /* aqua for background */
+  background-color: lightyellow;
   font-family: Serif;
 }
 
@@ -14,3 +15,26 @@ daily {
   font-weight: bold;
   text-align: center;
 }
+.general {
+  width: 100px;
+  height: 300px;
+  border: 3px black solid;
+}
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 5px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.weather{
+  width: 100px;
+  height: 300px;
+  border: 3px black solid;
+}
+
+
+/*# sourceMappingURL=style.css.map */
