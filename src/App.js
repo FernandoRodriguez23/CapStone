@@ -10,9 +10,6 @@ function App() {
       {data.daily.map((day)=>(
         <General info={day} />
       ))}
-    <div className="weather">
-      {data.daily.map((weth)) =>(
-          <General info={weth} />,
       {/* {data.daily.map((day, index)=>(
         <Day tops={day} id={index}/>
       ))} */}
