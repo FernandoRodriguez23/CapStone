@@ -21,7 +21,8 @@ const General = ({info}) => {
             <p className="max"> Max- { info.temp.max }°</p>
             <p class Name="weather">Weather- { info.temp.weather}</p>
             <p className=""></p>
-        </div>  
+        </div> 
+        
     );
 }
 

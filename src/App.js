@@ -13,11 +13,6 @@ function App() {
       {/* {data.daily.map((day, index)=>(
         <Day tops={day} id={index}/>
       ))} */}
-      <div className="lat">
-        {data.daily.map((lat) => (
-          General info
-        ))}
-      </div>
     </div>
   );
 }
