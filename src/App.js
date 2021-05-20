@@ -9,6 +9,7 @@ function App() {
     <div className="container fluid">
       {data.daily.map((day)=>(
         <General info={day} />
+    
       ))}
       {/* {data.daily.map((day, index)=>(
         <Day tops={day} id={index}/>

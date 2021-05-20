@@ -19,8 +19,6 @@ const General = ({info}) => {
             <IoIosSunny style={{ color: "orange", fontSize: "2rem" }} />
             <p className="min"> Min- { info.temp.min }°</p>
             <p className="max"> Max- { info.temp.max }°</p>
-            <p class Name="weather">Weather- { info.temp.weather}</p>
-            <p className=""></p>
         </div> 
         
     );

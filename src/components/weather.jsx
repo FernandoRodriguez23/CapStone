@@ -1,8 +1,6 @@
-import reactDom from "react-dom";
 import General, {package} from "./General"
 import {package} from "./json"
 
-c
 const task = ({tasks}) => {
     return (
     <>
